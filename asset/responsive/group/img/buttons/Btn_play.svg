@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Button/Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Button/Play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#2CD000" cx="50" cy="50" r="50"></circle>
+        <path d="M43,34.0364769 L43,65.9635231 C43,67.7483989 45.1463205,68.6663761 46.4475589,67.4383298 L63.3629354,51.474447 C64.2123549,50.6730154 64.2123549,49.3269846 63.3629354,48.525553 L46.4475589,32.5616702 C45.1463205,31.3336239 43,32.2516011 43,34.0364769" id="Fill-1" fill="#FFFFFF"></path>
+    </g>
+</svg>
